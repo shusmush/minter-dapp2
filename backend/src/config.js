@@ -17,8 +17,8 @@ const layerConfigurations = [
     growEditionSizeTo: 70,
     layersOrder: [
       { name: "Background" },
-      { name: "Torso charc" },
-      { name: "Eyes Bacground CHARC" },
+      { name: "Torso Charc" },
+      { name: "Eyes Background CHARC" },
       { name: "EM charc" },
       { name: "borders" },
       { name: "Headgear" },
@@ -30,8 +30,8 @@ const layerConfigurations = [
     layersOrder: [
       { name: "Background" },
       { name: "Torso brown" },
-      { name: "Eyes Bacground BROWN" },
-      { name: "eyes mouths brown" },
+      { name: "Eyes Background BROWN" },
+      { name: "eyes mouth brown" },
       { name: "borders" },
       { name: "Headgear" },
       { name: "Aces" },
@@ -42,7 +42,7 @@ const layerConfigurations = [
     layersOrder: [
       { name: "Background" },
       { name: "Torso pale" },
-      { name: "Eyes Bacground PALE" },
+      { name: "Eyes Background PALE" },
       { name: "eyes mouth pale" },
       { name: "borders" },
       { name: "Headgear" },
