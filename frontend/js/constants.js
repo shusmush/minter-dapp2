@@ -1,15 +1,15 @@
 const contractAddress = "0x69C7D6Dc471b11b63ebD03BEcbafF2348A623738"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the DPP NFT Project!!";
+const welcome_h1 = "Welcome to the DPP - Are you ready to Ape In?!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The DPP NFT Project is the rewarding NFT project that aims to create the strongest community of social poker players.';
+const welcome_p = 'The DPP Project is the rewarding NFT project that aims to create the strongest community of social poker players.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!! Please note that if whitelisted, you can only mint your maximumum allocation of NFTs in one go.";
 const h1_public_mint = "Public Minting Open!!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
-const p_presale_coming_soon = "We are hard at work to launch this exciting NFT Collection. Stay tuned for updates!";
+const p_presale_coming_soon = "We are hard at work for the upcoming launch of this exciting NFT Collection. Stay tuned for updates!";
 const p_presale_mint_not_whitelisted = "Unfortunately, you have not been whitelisted for the pre-sale.. 😢";
 const p_presale_mint_whitelisted = "CONGRATS!! You're on the whitelist for the pre-sale! 🎉";
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
