@@ -46,7 +46,7 @@ const layerConfigurations = [
       { name: "eyes mouth pale" },
       { name: "borders" },
       { name: "Headgear" },
-      { name: "Aces" },
+      { name: "Aces" }, 
       { name: "Thin Border" },
     ],
   },
