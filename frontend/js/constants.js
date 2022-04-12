@@ -1,7 +1,7 @@
 const contractAddress = "0x69C7D6Dc471b11b63ebD03BEcbafF2348A623738"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the DPP gang  - Are you ready to Ape In?!!";
+const welcome_h1 = "Welcome to the DPP gang   Are you ready to Ape In?!!";
 const welcome_h2 = "Connect to MetaMask to Get Apeing";
 const welcome_p = 'Join us on Discord for all the details of DEGENERATE POKER PRIMATES NFTs. DPP is designed to be the most rewarding poker-related NFT project, with guaranteed benefits (Live and Online) up until August 2025!';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
