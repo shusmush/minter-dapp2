@@ -3,13 +3,13 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the DPP gang   - Let's Ape In?!!";
 const welcome_h2 = "Connect to MetaMask to Get Apeing";
-const welcome_p = 'Join us on Discord for all the details of DEGENERATE POKER PRIMATES NFTs. DPP is designed to be the most rewarding poker-related NFT project, with guaranteed benefits (Live and Online) up until August 2025!';
+const welcome_p = 'Join us on Discord for all the details of DEGENERATE POKER PRIMATES NFTs.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
-const p_presale_coming_soon = "We are hard at work for the upcoming launch of this exciting NFT Collection. Stay tuned on DISCORD for all project details and updates!";
+const p_presale_coming_soon = "We are hard at work for the upcoming launch of this exciting NFT Collection!";
 const p_presale_mint_not_whitelisted = "Unfortunately, you have not been whitelisted for the pre-sale.. 😢";
 const p_presale_mint_whitelisted = "CONGRATS!! You're on the whitelist for the pre-sale! 🎉";
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
